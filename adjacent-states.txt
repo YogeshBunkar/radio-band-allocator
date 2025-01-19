@@ -1,0 +1,34 @@
+J&K Ladakh Himachal_Pradesh Punjab
+Meghalaya Assam
+Himachal_Pradesh J&K Ladakh Punjab Haryana Uttarakhand
+Punjab J&K Himachal_Pradesh Haryana Rajasthan
+Tamil_Nadu Kerala Andhra_Pradesh
+Haryana Punjab Rajasthan UP Uttarakhand Himachal_Pradesh
+UP Uttarakhand Haryana Rajasthan MP Chhatisgarh Jharkhand Bihar
+Uttarakhand Himachal_Pradesh Haryana UP
+West_Bengal Sikkim Assam
+Bihar UP Jharkhand West_Bengal
+Nagaland Assam Arunanchal_Pradesh Manipur
+Sikkim West_Bengal
+Assam Arunanchal_Pradesh Nagaland Manipur Mizoram Tripura Meghalaya
+Rajasthan Punjab Haryana UP MP Gujarat
+Tripura West_Bengal
+Manipur Nagaland Mizoram Assam
+Gujarat MP Rajasthan Maharashtra Daman_Diu Dadra_Nagar_Haveli 
+MP Gujarat Rajasthan UP Chhatisgarh Maharashtra
+Daman_Diu Gujarat Maharashtra
+Dadra_Nagar_Haveli Gujarat
+Mizoram Tripura Manipur Assam
+Maharashtra Daman_Diu Goa Karnataka Telangana Chhatisgarh MP Gujarat
+Arunanchal_Pradesh Assam Nagaland
+Jharkhand UP Chhatisgarh Odisha West_Bengal Bihar
+Chhatisgarh Maharashtra MP UP Jharkhand Odisha
+Odisha Chhatisgarh Jharkhand West_Bengal Andhra_Pradesh
+Karnataka Goa Maharashtra Telangana Andhra_Pradesh Tamil_Nadu Kerala
+Telangana Maharashtra Chhatisgarh Andhra_Pradesh Karnataka
+Andhra_Pradesh Tamil_Nadu Karnataka Telangana Chhatisgarh Odisha
+Goa Maharashtra Karnataka
+Ladakh J&K
+Kerala Karnataka Tamil_Nadu
+Lakshadweep
+ANiIsland
